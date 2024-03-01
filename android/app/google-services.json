@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929705718948",
+    "project_id": "image-to-qr-e355b",
+    "storage_bucket": "image-to-qr-e355b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929705718948:android:17760e6cd42151b533a231",
+        "android_client_info": {
+          "package_name": "com.example.image_to_qr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVG0oJAJUUyoPJEfGpoLqq0cTB6bEDK-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
